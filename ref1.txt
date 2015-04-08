@@ -1,0 +1,5 @@
+git init to create a directory
+git add to add a particular file
+git status to see what the current state is
+git log for previous commits
+git diff to diff two commits using the hashes
