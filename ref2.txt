@@ -1,1 +1,15 @@
-Obligatory change to ref2.txt
+You must use git add to add a new file to the repo.
+
+You must also use git add to put a modified file into the staging area. If you don't, git commit won't commit the changes for that file.
+
+To see which files are in the staging area use git diff --staged.
+
+To discard all uncommitted modifications use git reset --hard.
+
+use git branch <branchname> to create a branch, then git checkout <branchname> to switch to it.
+
+Both can be done at once with git checkout -b <branchname>
+
+Use git log --graph --oneline to see graphical representation of commits and branches
+
+
